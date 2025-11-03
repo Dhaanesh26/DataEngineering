@@ -1,2 +1,4 @@
 # Data Engineering KT Files and Tasks
-<img width="235" height="167" alt="image" src="https://github.com/user-attachments/assets/e7ecd973-79ef-414e-b7b6-1d5a6d0b0bc4" />
+
+<img width="640" height="360" alt="image" src="https://github.com/user-attachments/assets/23cfb523-9a97-485f-b66d-ad7eb1e50e0c" />
+
